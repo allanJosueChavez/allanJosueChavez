@@ -1,8 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=allanJosueChavez&color=green)
 
-
 <h1 align="center">Hi there! I'm Allan 🧑🏻‍💻</h1>
-
 
 <h3 align="center">Frontend Developer from Guatemala </h3>
 <p align="center"  > 
@@ -11,12 +9,8 @@
 
 </p>
 
-
-
 <h3 align="center">Reach me out through:
 </h3>
-
-
 
 <p align="center">
 <a href="https://linkedin.com/in/allan-chavez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="allan-chavez" height="30" width="40" /></a>
